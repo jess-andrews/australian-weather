@@ -18,4 +18,4 @@ df %>%
   geom_point()
 
 # Save the plot in graphics/
-ggsave(filename = "graphics/scatter-temp-humidity.png", plot = scatter_plot)
+ggsave(filename = "graphics/scatter-temp-humidity-plot.png", plot = scatter_plot)
